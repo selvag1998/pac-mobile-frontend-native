@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "912244526320",
+    "project_id": "visdocmobapp",
+    "storage_bucket": "visdocmobapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912244526320:android:0c68c48c50c1c896df8635",
+        "android_client_info": {
+          "package_name": "com.visdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912244526320-qvu497iq0ufuc82b0o1523t6ckqjarrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kl3iCHAOmRNfNVHTo-DmsChdYRPzB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912244526320-qvu497iq0ufuc82b0o1523t6ckqjarrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912244526320-c33tbfd19q5ttk9mk58scpn0p6kv7j8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.visdoc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
